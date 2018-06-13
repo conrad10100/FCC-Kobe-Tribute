@@ -1,0 +1,62 @@
+html,body{
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  text-align:center;
+  min-width:260px;
+  color:black;
+}
+#main{
+  margin:30px auto;
+  padding:15px;
+  border:0px solid;
+  border-radius:5px;
+  background:#FFEE58;
+}
+#title{
+  color: purple;
+}
+#img-caption{
+  color: #766d7c;
+}
+
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:center;
+  margin-top:20px;
+  width:100%;
+  border:5x solid white;
+  background:white;
+}
+#img-caption{
+  margin:10px;
+  font-size: 30px;
+}
+#headline{
+  margin-top:50px;
+  text-align:left;
+}
+ul{
+  max-width:550px;
+  margin:0 auto;
+  text-align:left;
+}
+li{
+  margin: 5px;
+}
+blockquote{
+  font-style: italic;
+  max-width:1300px;
+  margin:auto;
+  text-align:center;
+  color:#7B1FA2;
+}
+#wiki:hover { 
+    color: red;
+}
+#userlink:hover { 
+    color: red;
+}
